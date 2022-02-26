@@ -1,5 +1,5 @@
 # M2_Street-lighting_utility
 
-# Introduction
+# Abstract
 
 It aims at designing and executing the advanced development in embedded systems for energy saving of street lights. Nowadays, human has become too busy, and is unable to find time even to switch the lights wherever not necessary. The present system is like, the street lights will be switched on in the evening before the sun sets and they are switched off the next day morning after there is sufficient light on the roads. this paper gives the best solution for electrical power wastage. Also the manual operation of the lighting system is completely eliminated.  In this paper the  two sensors are used  which are   Light Dependent Resistor  LDR sensor  to indicate a day/night time and   the photoelectric sensors to detect the movement on the street. the microcontroller  PIC16F877A  is  used  as  brain  to  control  the  street  light  system,  where  the  programming language used for developing the software to the microcontroller is C-language. Finally, the system has been successfully designed and implemented as prototype system
